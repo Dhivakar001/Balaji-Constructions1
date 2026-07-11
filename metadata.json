@@ -1,0 +1,6 @@
+{
+  "name": "Balaji Constructions",
+  "description": "A modern, professional construction company website for Balaji Constructions. Features interactive projects galleries, services, testimonials, custom lead estimation tools, and quote forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
